@@ -1,0 +1,15 @@
+Trial ID: AZ-2024-ALPHA
+Drug: Cardiovax-9 (Hypertension)
+Phase: III
+Summary: Patient cohort of 500 individuals aged 45-65. 
+Efficacy: 88% of patients showed a reduction in systolic blood pressure within 14 days.
+Side Effects: 12% reported mild headaches. 2% reported dizziness. Zero critical cardiac events reported.
+Data Classification: RESTRICTED - GxP COMPLIANT ENVIRONMENT ONLY.
+
+Trial ID: AZ-2024-BETA
+Drug: PulmoBreathe (Asthma)
+Phase: II
+Summary: Patient cohort of 200 individuals aged 18-40.
+Efficacy: 94% reported improved lung capacity (FEV1) after 30 days.
+Side Effects: 5% reported dry throat. 1% reported mild insomnia.
+Data Classification: RESTRICTED - GxP COMPLIANT ENVIRONMENT ONLY.
